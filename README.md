@@ -10,7 +10,12 @@ additional change asdfsadfsd
 Last change
 master 
 Branch 1
+<<<<<<< HEAD
+master change
+Change to remove in future
+=======
 branch 1 change
+>>>>>>> branch1
 
 vasdfd
 
